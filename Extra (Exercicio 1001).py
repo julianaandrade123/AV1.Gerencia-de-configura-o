@@ -6,12 +6,12 @@
 # Saída
 # Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-A = int(input())
-B = int(input())
+# A = int(input())
+# B = int(input())
 
-X = A + B
+# X = A + B
 
-print(f'X = {X}')
+# print(f'X = {X}')
 
 # Os input() de A e de B pedem para o usuário digitar um valor que será convertido para inteiro.
 # X = A + B vai somar os valores de A e B, guardando-os na variável X
